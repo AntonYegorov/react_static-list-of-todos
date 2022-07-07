@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/TodoList/TodoList.scss"],"names":[],"mappings":"AAAA,YACE,kBAAmB,CACnB,YAAa,CACb,qBAAuB,CACvB,kBAAmB","file":"main.2783ea1f.chunk.css","sourcesContent":[".card__item {\n  margin-bottom: 30px;\n  padding: 10px;\n  border: 1px solid black;\n  border-radius: 12px;\n}\n"]}
